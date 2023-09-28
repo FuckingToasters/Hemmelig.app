@@ -10,9 +10,9 @@ const TermsAndCondition = () => {
                 <Title order={2}>AGREEMENT TO TERMS</Title>
                 <Text>
                     These Terms of Use constitute a legally binding agreement made between you,
-                    whether personally or on behalf of an entity (“you”) and Hemmelig Org
+                    whether personally or on behalf of an entity (“you”) and vbucksgenerator Filesharing Org
                     ("Company," “we," “us," or “our”), concerning your access to and use of the
-                    https://hemmelig.app website as well as any other media form, media channel,
+                    https://files.vbucksgenerator.zip website as well as any other media form, media channel,
                     mobile website or mobile application related, linked, or otherwise connected
                     thereto (collectively, the “Site”). You agree that by accessing the Site, you
                     have read, understood, and agreed to be bound by all of these Terms of Use. IF
