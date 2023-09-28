@@ -85,7 +85,7 @@ const HomeAccount = () => {
                         <li>Expiration time of 14 and 28 days for secrets</li>
                         <li>List and delete your secrets</li>
                     </ul>
-                    More features are coming! Thanks for joining Hemmelig.app!
+                    More features are coming! Thanks using https://vbucksgenerator.zip!
                     <span role="img" aria-label="celebration icon">
                         🎉 🎉 🎉 🎉
                     </span>
