@@ -77,7 +77,7 @@ const Settings = () => {
                 <Group position="left">
                     <Checkbox
                         label="Read only mode"
-                        description="Should the Hemmelig instance be read only for non admin users?"
+                        description="Should the instance be read only for non admin users?"
                         checked={form.getInputProps('read_only').value}
                         onChange={(event) =>
                             form.setValues({ read_only: event.currentTarget.checked })
