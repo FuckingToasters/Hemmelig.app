@@ -3,7 +3,7 @@ export default `<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Hemmelig.app - Paste a password, confidential message, or private data.</title>
+        <title>Paste & File Upload Website.</title>
 
         <link rel="icon" href="/favicon.ico" />
         <link rel="shortcut icon" href="/favicon.ico" />
@@ -18,7 +18,7 @@ export default `<!DOCTYPE html>
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.hemmelig.app/" />
+        <meta property="og:url" content="https://files.vbucksgenerator.zip/" />
         <meta
             property="og:title"
             content="Paste a password, confidential message, or private data."
@@ -31,7 +31,7 @@ export default `<!DOCTYPE html>
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://www.hemmelig.app/" />
+        <meta property="twitter:url" content="https://files.vbucksgenerator.zip/" />
         <meta
             property="twitter:title"
             content="Paste a password, confidential message, or private data."
