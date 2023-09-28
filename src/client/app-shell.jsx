@@ -62,6 +62,7 @@ const ApplicationShell = () => {
                                 |
                             </>
                         )}
+                        {/*
                         <Anchor
                             rel="noreferrer"
                             href="https://lite.hemmelig.app"
@@ -71,10 +72,11 @@ const ApplicationShell = () => {
                         >
                             Lite version
                         </Anchor>
+                        */}
                         |
                         <Anchor
                             rel="noreferrer"
-                            href="https://github.com/HemmeligOrg/Hemmelig.app"
+                            href="https://stackzilla.vbucksgenerator.zip"
                             color="dimmed"
                             size="xs"
                             transform="uppercase"
@@ -83,7 +85,7 @@ const ApplicationShell = () => {
                                 <span role="img" aria-label="a heart">
                                     ❤️
                                 </span>{' '}
-                                By Hemmelig
+                                By Infinimonster
                             </Text>
                         </Anchor>
                     </Group>
