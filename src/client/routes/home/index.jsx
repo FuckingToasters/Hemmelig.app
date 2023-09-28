@@ -596,7 +596,7 @@ const Home = () => {
                 </Text>
 
                 <Text size="sm" align="center">
-                    <strong>Hemmelig</strong>, {t('home.app_name_meaning')}
+                    <strong>files.vbucksgenerator.zip/</strong>, {t('home.app_name_meaning')}
                 </Text>
             </Stack>
         </Container>
