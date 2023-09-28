@@ -8,7 +8,7 @@ const ApiDocs = () => {
             <Stack>
                 <Title order={1}>API Docs</Title>
 
-                <Title order={2}>How can I use Hemmelig programmatically?</Title>
+                <Title order={2}>How can I use https://files.vbucksgenerator.zip programmatically?</Title>
                 <Text>
                     First of all you have to create an{' '}
                     <Anchor component={Link} to="/signin">
