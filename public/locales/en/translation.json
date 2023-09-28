@@ -28,7 +28,7 @@
         "create_new": "Create new",
         "delete": "Delete",
         "link_only_works_once": "The secret link, by default, is a one-time use only, after which it will vanish.",
-        "app_name_meaning": "[he`m:(ə)li], means secret in Norwegian.",
+        "app_name_meaning": "We stand for privacy and anonymity.",
         "please_add_secret": "Please add a secret.",
         "14_days": "14 days",
         "28_days": "28 days",
@@ -41,7 +41,7 @@
         "30_minutes": "30 minutes",
         "5_minutes": "5 minutes",
         "successful_share": "Successful share",
-        "get_your_secret": "Get your secret at hemmelig.app."
+        "get_your_secret": "Get your secret at files.vbucksgenerator.zip."
     },
     "secret": {
         "view_your_secret": "View your secret",
@@ -55,7 +55,7 @@
     },
     "settings": {
         "success": "Success",
-        "description": "Update the Hemmelig instance state",
+        "description": "Update the instance state",
         "updated": "Settings updated",
         "update": "Update settings"
     },
