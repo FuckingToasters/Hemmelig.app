@@ -1,7 +1,7 @@
 import adminSettings from '../adminSettings.js';
 
 const authenticationRegex = /^\/api\/authentication\/signup.*$/i;
-const errorMessage = 'Access denied. You are not allowed create a user. 🥲';
+const errorMessage = 'Access denied. You are not allowed to create a user. 🥲';
 
 export default async function disableUserAccountCreation(request, reply) {
     const { url } = request;
