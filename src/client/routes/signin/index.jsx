@@ -70,7 +70,7 @@ const SignIn = () => {
                     </Title>
 
                     <Text size="sm" align="center">
-                        Everything you need to access, and manage the Hemmelig secrets.
+                        Everything you need to access, and manage your secrets.
                     </Text>
 
                     {error && (
