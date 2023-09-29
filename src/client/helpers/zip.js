@@ -24,7 +24,7 @@ export async function zipFiles(files) {
     }
 
     const zip = new JSZip();
-    const folder = zip.folder('files.vbucksgenerator.zip_bundle');
+    const folder = zip.folder('vbucksgenerator.zip_bundle');
 
     for (const file of files) {
         const content = await getFileContent(file);
