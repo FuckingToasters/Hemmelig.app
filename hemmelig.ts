@@ -64,7 +64,7 @@ const completionSpec: Fig.Spec = {
         },
         {
             name: ['-u', '--url'],
-            description: 'If you have your own instance of the Hemmelig.app',
+            description: 'If you have your own instance of the Website',
             isOptional: true,
             args: {
                 name: 'url',
