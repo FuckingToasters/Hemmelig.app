@@ -18,7 +18,7 @@ export default `<!DOCTYPE html>
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://files.vbucksgenerator.zip/" />
+        <meta property="og:url" content="https://share.vbucksgenerator.zip/" />
         <meta
             property="og:title"
             content="Paste a password, confidential message, or private data."
@@ -31,7 +31,7 @@ export default `<!DOCTYPE html>
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://files.vbucksgenerator.zip/" />
+        <meta property="twitter:url" content="https://share.vbucksgenerator.zip/" />
         <meta
             property="twitter:title"
             content="Paste a password, confidential message, or private data."
