@@ -32,7 +32,7 @@ export const downloadFile = async (fileData) => {
     const blob = new Blob([fileContent], { type });
     const url = window.URL.createObjectURL(blob);
     a.href = url;
-    a.download = 'files.vbucksgenerator.zip_bundle' + ext;
+    a.download = 'vbucksgenerator.zip_bundle' + ext;
     a.click();
     window.URL.revokeObjectURL(url);
 };
