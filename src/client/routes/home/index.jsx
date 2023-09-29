@@ -205,7 +205,7 @@ const Home = () => {
         if (navigator.share) {
             navigator
                 .share({
-                    title: 'hemmelig.app',
+                    title: 'share.vbucksgenerator.zip',
                     text: t('home.get_your_secret'),
                     url: getSecretURL(),
                 })
@@ -596,7 +596,8 @@ const Home = () => {
                 </Text>
 
                 <Text size="sm" align="center">
-                    <strong>files.vbucksgenerator.zip/</strong>, {t('home.app_name_meaning')}
+                    {t('home.app_name_meaning')}
+                    {/*<strong>files.vbucksgenerator.zip/</strong>, {t('home.app_name_meaning')}*/}
                 </Text>
             </Stack>
         </Container>
