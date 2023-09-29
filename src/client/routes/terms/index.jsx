@@ -12,7 +12,7 @@ const TermsAndCondition = () => {
                     These Terms of Use constitute a legally binding agreement made between you,
                     whether personally or on behalf of an entity (“you”) and vbucksgenerator Filesharing Org
                     ("Company," “we," “us," or “our”), concerning your access to and use of the
-                    https://files.vbucksgenerator.zip website as well as any other media form, media channel,
+                    https://share.vbucksgenerator.zip website as well as any other media form, media channel,
                     mobile website or mobile application related, linked, or otherwise connected
                     thereto (collectively, the “Site”). You agree that by accessing the Site, you
                     have read, understood, and agreed to be bound by all of these Terms of Use. IF
